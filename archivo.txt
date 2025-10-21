@@ -1,0 +1,3 @@
+mkdir nombrecarpeta crea
+rmdir nombrecarpeta elimina
+git init -----crea todos los archivos necesarios para el repo
